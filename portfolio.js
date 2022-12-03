@@ -27,7 +27,7 @@ export const skillsSection = {
   data: [
     {
       title: "Full Stack Development",
-      lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
+      lottieAnimationFile: "/fullstack.json", // Path of Lottie Animation JSON File
       skills: [
         emoji(
           "⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js"
@@ -80,7 +80,7 @@ export const skillsSection = {
     },
     {
       title: "Cloud Infra-Architecture",
-      lottieAnimationFile: "/lottie/skills/cloudinfra.json", // Path of Lottie Animation JSON File
+      lottieAnimationFile: "/cloudinfra.json", // Path of Lottie Animation JSON File
       skills: [
         emoji("⚡ Experience of working on multiple cloud platforms"),
         emoji(
@@ -151,7 +151,7 @@ export const experience = [
   {
     role: "Full Stack Developer Intern",
     company: "HuddleCo, Adelaide",
-    companylogo: "/img/icons/common/huddleco_logo.jfif",
+    companylogo: "/huddleco_logo.jfif/",
     date: "Apr 2022 – Jun 2022",
     desc: "I worked on a number of projects as a Full Stack Developer. I Made a Funnel Chart widget using React Js and MondaySDK. I also  made a website that adds a new functionality to Huddle’s API. Currently, I am working on making a Scraping Bot using Puppeteer and Node JS that helps in getting data from a website to a board.",
   },
